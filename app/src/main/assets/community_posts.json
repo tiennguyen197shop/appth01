@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Kinh nghiệm đi sinh tại bệnh viện Phụ sản Trung ương",
+    "author": "Mẹ Bé Bơ",
+    "stage": "Sau sinh",
+    "date": "2024-06-10",
+    "views": 1250,
+    "comments": 45,
+    "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500",
+    "is_hot": true
+  },
+  {
+    "id": "2",
+    "title": "Làm sao để giảm ốm nghén hiệu quả?",
+    "author": "Mẹ Bầu Xinh",
+    "stage": "Tuần 12",
+    "date": "2024-06-09",
+    "views": 850,
+    "comments": 28,
+    "thumbnail": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=500",
+    "is_hot": false
+  }
+]
